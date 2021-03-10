@@ -5,4 +5,5 @@
 <li>Provided a sample Excel file with a dummy data in it</li>
 <li>Sheet 1 will have the data dump</li>
 <li>Sheet 2 in Excel will have some test data, on which vlook up will be applied</li>
+<li>You can replace the sheets with workbooks, by changing the Excel path</li>
 </ul>
